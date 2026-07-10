@@ -1,2 +1,4 @@
-# Customer-Segmentation-Project
-A Business Analyst Internship project focused on Customer Segmentation using Python (Jupyter Notebook via Anaconda Navigator), K-Means Clustering, and Power BI. Analyzed customer demographics and purchasing behavior to identify meaningful segments and developed data-driven insights for personalized marketing strategies.
+## Project 2: Customer Segmentation for Targeted Marketing
+
+* **Objective:** Group a consumer base of 200 profiles using unsupervised machine learning to isolate distinct purchasing personas based on demographic metrics and spending behaviors.
+* **Tools Used:** Python (Jupyter Notebook via Anaconda Navigator), 
